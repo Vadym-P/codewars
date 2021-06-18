@@ -1,2 +1,2 @@
 # codewars
-Taske from codewars.com
+Tasks from codewars.com
